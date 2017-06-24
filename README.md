@@ -25,6 +25,4 @@
 
 * 当然，对于双人模式，鼠标也是可以用的，就是互相交换鼠标会比较麻烦
 
-PS： 使用了MingW，使用MSVC编译似乎会出现一些问题</br>
-在release文件夹中有做好依赖可以直接执行的.exe文件，可以直接执行那个。</br>
-Oop project, in the summer of 2017
+PS： 使用了MinGW来进行编译，使用MSVC编译似乎会在落子的时候crash</br>
